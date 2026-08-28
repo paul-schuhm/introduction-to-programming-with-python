@@ -1,1 +1,7 @@
-# introduction-to-programming-with-python
+# Introduction to programming, with Python
+
+## Exercises and corrections
+
+## References
+
+
