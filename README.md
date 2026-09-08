@@ -4,6 +4,7 @@ Sources and references for the course.
 
 - [Introduction to programming, with Python](#introduction-to-programming-with-python)
   - [Course materials](#course-materials)
+  - [Mini labs (commented source code)](#mini-labs-commented-source-code)
   - [Problems and suggestions](#problems-and-suggestions)
   - [References](#references)
     - [Tools](#tools)
@@ -13,6 +14,10 @@ Sources and references for the course.
 ## Course materials
 
 [Access course materials (HTML)](https://ftp.pschuhmacher.com/introduction-to-programming/)
+
+## Mini labs (commented source code)
+
+[See sources](./mini-labs/)
 
 ## Problems and suggestions
 
