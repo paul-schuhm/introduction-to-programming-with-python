@@ -4,8 +4,9 @@ Sources and references for the course.
 
 - [Introduction to programming, with Python](#introduction-to-programming-with-python)
   - [Course materials](#course-materials)
-  - [Exercises and corrections](#exercises-and-corrections)
+  - [Problems and suggestions](#problems-and-suggestions)
   - [References](#references)
+    - [Tools](#tools)
     - [Bibliography](#bibliography)
     - [On the web](#on-the-web)
 
@@ -13,9 +14,13 @@ Sources and references for the course.
 
 [Access course materials (HTML)](https://ftp.pschuhmacher.com/introduction-to-programming/)
 
-## Exercises and corrections
+## Problems and suggestions
 
 ## References
+
+### Tools
+
+- [PyCharm IDE](https://www.jetbrains.com/pycharm/), Community Version
 
 ### Bibliography
 
