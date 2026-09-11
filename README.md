@@ -21,6 +21,8 @@ Sources and references for the course.
 
 ## Problems and suggestions
 
+[Access problem sheet](https://ftp.pschuhmacher.com/introduction-to-programming/problem-sheet.html)
+
 ## References
 
 ### Tools
@@ -36,9 +38,10 @@ Sources and references for the course.
 - [Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/python-crash-course-3rd-edition), by Eric Matthes, 2022, published by No Starch Press. To learn how to program with Python
 - [Automate the Boring Stuff with Python, 3rd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/), by Al Sweigart, 2025, published by No Starch Press. **Free web version**. To learn how to program with Python
 - [Introduction to Computation and Programming Using Python with Application to Computational Modeling and Understanding Data](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/), 3rd Edition, by John V. Guttag, 2021, published by The MIT Press. To learn how to program with Python
-- [Python for Data Analysis: Data Wrangling With Pandas, Numpy, and Jupyter](https://www.oreilly.com/library/view/python-for-data/9781098104023/), by Wes McKinneyn, 2022, published by O'Reilly Media. To master data manipulation and visualisation with most used libraries
+- [Python for Data Analysis: Data Wrangling With Pandas, Numpy, and Jupyter](https://www.oreilly.com/library/view/python-for-data/9781098104023/), by Wes McKinneyn, 2022, published by O'Reilly Media. To master data manipulation and visualization with most used libraries
 
 ### On the web
 
+- [Python official documentation](https://docs.python.org/3/), *everything* you need to know about the language. This is the **ultimate reference** to find and *check* information. For example, check the documentation on the [introduction to lists](https://docs.python.org/3/tutorial/introduction.html#lists). You are *strongly* encouraged to consult it 
 - [Awesome Python](https://awesome-python.com/), an opinionated guide to the best Python frameworks, libraries, and tools.
 - [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074), MIT introductory programming with Python course, on YouTube
