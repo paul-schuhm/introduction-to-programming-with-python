@@ -4,8 +4,10 @@ Sources and references for the course.
 
 - [Introduction to programming, with Python](#introduction-to-programming-with-python)
   - [Course materials](#course-materials)
-  - [Exercises and corrections](#exercises-and-corrections)
+  - [Mini labs (commented source code)](#mini-labs-commented-source-code)
+  - [Problems and suggestions](#problems-and-suggestions)
   - [References](#references)
+    - [Tools](#tools)
     - [Bibliography](#bibliography)
     - [On the web](#on-the-web)
 
@@ -13,9 +15,17 @@ Sources and references for the course.
 
 [Access course materials (HTML)](https://ftp.pschuhmacher.com/introduction-to-programming/)
 
-## Exercises and corrections
+## Mini labs (commented source code)
+
+[See sources](./mini-labs/)
+
+## Problems and suggestions
 
 ## References
+
+### Tools
+
+- [PyCharm IDE](https://www.jetbrains.com/pycharm/), Community Version
 
 ### Bibliography
 
