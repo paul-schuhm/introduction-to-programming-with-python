@@ -31,3 +31,4 @@ Sources and references for the course.
 ### On the web
 
 - [Awesome Python](https://awesome-python.com/), an opinionated guide to the best Python frameworks, libraries, and tools.
+- [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074), MIT introductory programming with Python course, on YouTube
