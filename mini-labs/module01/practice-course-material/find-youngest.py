@@ -1,5 +1,6 @@
-from datetime import datetime
+# Find and print the youngest person in the group
 
+from datetime import datetime
 
 # Input data {name: "YYYY-MM-DD"}
 group = {
@@ -14,10 +15,11 @@ youngest_name = None
 youngest_date = None
 
 for name, date_str in group.items():
-    # Convert string to datetime object (strptime(): string "p"arsing time)
+    # Convert string to datetime object
     birth_date = datetime.strptime(date_str, "%Y-%m-%d")
     if youngest_date is None or birth_date > youngest_date:
         youngest_name = name
         youngest_date = birth_date
-
-print(f"The youngest person is {youngest_name}, born on {youngest_date.strftime('%Y-%m-%d')}.")
+print(
+    f"The youngest person is {youngest_name}, born on {youngest_date.strftime('%Y-%m-%d')}."
+)

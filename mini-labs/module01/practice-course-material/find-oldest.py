@@ -1,4 +1,4 @@
-# Find the oldest person in a group.
+# Find and print the oldest person in the group
 
 from datetime import datetime
 
@@ -15,10 +15,11 @@ oldest_name = None
 oldest_date = None
 
 for name, date_str in group.items():
-    # Convert string to datetime object (strptime(): string "p"arsing time)
+    # Convert string to datetime object
     birth_date = datetime.strptime(date_str, "%Y-%m-%d")
     if oldest_date is None or birth_date < oldest_date:
         oldest_name = name
         oldest_date = birth_date
-
-print(f"The oldest person is {oldest_name}, born on {oldest_date.strftime('%Y-%m-%d')}.")
+print(
+    f"The oldest person is {oldest_name}, born on {oldest_date.strftime('%Y-%m-%d')}."
+)
