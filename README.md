@@ -15,13 +15,13 @@ Sources and references for the course.
 
 [Access course materials (HTML)](https://ftp.pschuhmacher.com/introduction-to-programming/)
 
-## Mini labs (commented source code)
-
-[See sources](./mini-labs/)
-
-## Problems and suggestions
+## Problems
 
 [Access problem sheet](https://ftp.pschuhmacher.com/introduction-to-programming/problem-sheet.html)
+
+## Practice and solutions (commented source code)
+
+[See sources](./mini-labs/)
 
 ## References
 
