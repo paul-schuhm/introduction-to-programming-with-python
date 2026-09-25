@@ -43,5 +43,5 @@ Sources and references for the course.
 ### On the web
 
 - [Python official documentation](https://docs.python.org/3/), *everything* you need to know about the language. This is the **ultimate reference** to find and *check* information. For example, check the documentation on the [introduction to lists](https://docs.python.org/3/tutorial/introduction.html#lists). You are *strongly* encouraged to consult it 
-- [Awesome Python](https://awesome-python.com/), an opinionated guide to the best Python frameworks, libraries, and tools.
 - [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074), MIT introductory programming with Python course, on YouTube
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html), official tutorial for Python, to discover the language
