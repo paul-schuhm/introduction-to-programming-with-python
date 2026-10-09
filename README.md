@@ -4,8 +4,8 @@ Sources and references for the course.
 
 - [Introduction to programming, with Python](#introduction-to-programming-with-python)
   - [Course materials](#course-materials)
-  - [Mini labs (commented source code)](#mini-labs-commented-source-code)
-  - [Problems and suggestions](#problems-and-suggestions)
+  - [Problems](#problems)
+  - [Practice and solutions (commented source code)](#practice-and-solutions-commented-source-code)
   - [References](#references)
     - [Tools](#tools)
     - [Bibliography](#bibliography)
@@ -21,17 +21,17 @@ Sources and references for the course.
 
 ## Practice and solutions (commented source code)
 
-[See sources](./mini-labs/)
+[See commented sources, organized by modules](./mini-labs/)
 
 ## References
 
 ### Tools
 
-- [PyCharm IDE](https://www.jetbrains.com/pycharm/), Community Version
+- [PyCharm IDE](https://www.jetbrains.com/pycharm/), Community Version. Used by default in this course
 
 ### Bibliography
 
-> Pick one that "fits" you and use it.
+> Pick one that *fits* you and use it as a reference
 
 <img src="./assets/python_crash_course.avif" height=200><img src="./assets/cover-automate3.webp" height=200><img src="./assets/intro_to_computation.avif" height=200><img src="./assets/python_for_data_analysis.webp" height=200>
 
